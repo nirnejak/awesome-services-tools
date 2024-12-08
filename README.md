@@ -27,6 +27,8 @@
 - [Image Upscaler](https://clipdrop.co/image-upscaler) - Image Upscaler
 - [Duotone](https://duotone.shapefactory.co/) - Tones in image
 
+---
+
 ### Animation
 
 - [Dora](https://www.dora.run/) - AI 3D site generator
@@ -38,22 +40,30 @@
 - [Bezi](https://www.bezi.com/) - Game development tool
 - [SVGator](https://www.svgator.com/) - SVG animation tool
 
+---
+
 ### CMS
 
 - [Payload CMS](https://payloadcms.com/) - Next.js CMS
 - [Outstatic](https://outstatic.com/) - Static CMS for Next.js
 - [TinaCMS](https://tina.io/) - Headless Git CMS
 
+---
+
 ### Email
 
 - [Resend](https://resend.com/) - Email Service
 - [Sendy](https://sendy.co/) - Newsletter via AWS SES
+
+---
 
 ### Worker
 
 - [Zeplo](https://www.zeplo.io/) - HTTP Request Queue
 - [Trigger](https://trigger.dev/) - Open source background jobs platform
 - [Temporal](https://temporal.io/) - Workflow orchestration
+
+---
 
 ### Hosting
 
@@ -63,6 +73,8 @@
 - [Fly.io](https://fly.io/) - Deployment platform
 - [Railway](https://railway.app/) - Deployment platform
 - [Render](https://render.com/) - Deployment platform
+
+---
 
 ### Terminal
 
@@ -78,11 +90,15 @@
 - [Xata](https://xata.io/) - Serverless postgres
 - [SQL Playground](https://uibakery.io/sql-playground) - Sample database
 
+---
+
 ### Websocket
 
 - [PartyKit](https://www.partykit.io/) - Simplifies developing multiplayer applications
 - [Pushpin](https://pushpin.org/) - API proxy for realtime apps
 - [Smee](https://smee.io/) - Webhook payload delivery service
+
+---
 
 ## Logging
 
@@ -90,14 +106,13 @@
 - [Telemetry](https://betterstack.com/telemetry) - Logging
 - [LogSnag](https://logsnag.com/) - Monitoring and alerts
 
-## Feature Flags
+---
 
-- [Launch Darkly](https://launchdarkly.com/) - Feature Flags
-
-### Monitoring & Product Analytics
+### Monitoring
 
 - [Posthog](https://posthog.com/) - Product Analytics, web analytics, session replay, feature flags, ...
 - [June](https://www.june.so/) - Product analytics
+- [Launch Darkly](https://launchdarkly.com/) - Feature Flags
 - [Betterstack](https://betterstack.com/) - Tools for monitoring, uptime, logging etc
 - [Better Uptime](https://betteruptime.com/) - Uptime monitoring
 - [Prometheus](https://prometheus.io/) - Metrics and alerting
