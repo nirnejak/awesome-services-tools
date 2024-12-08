@@ -25,8 +25,7 @@
 - [Pixlr](https://pixlr.com/) - Photo Generator
 - [Raster](https://raster.app/) - Photo Management, Editing and Hosting
 - [Image Upscaler](https://clipdrop.co/image-upscaler) - Image Upscaler
-
-- [Duotone](https://duotone.shapefactory.co/)
+- [Duotone](https://duotone.shapefactory.co/) - Tones in image
 
 ### Animation
 
