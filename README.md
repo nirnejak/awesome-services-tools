@@ -82,6 +82,8 @@
 - [asciifolders](https://www.asciifolders.com/) - ASCII directory trees from a folder
 - [asciinema](https://asciinema.org/) - Record and share terminal sessions
 
+---
+
 ### Database
 
 - [Upstash](https://upstash.com/) - Redis, Vector and QStash hosting
