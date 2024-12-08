@@ -40,67 +40,66 @@
 
 ### CMS
 
-- [Payload CMS](https://payloadcms.com/)
-- [Outstatic](https://outstatic.com/)
-- [TinaCMS](https://tina.io/)
+- [Payload CMS](https://payloadcms.com/) - Next.js CMS
+- [Outstatic](https://outstatic.com/) - Static CMS for Next.js
+- [TinaCMS](https://tina.io/) - Headless Git CMS
 
 ### Email
 
-- [Resend](https://resend.com/)
-- [Sendy](https://sendy.co/)
+- [Resend](https://resend.com/) - Email Service
+- [Sendy](https://sendy.co/) - Newsletter via AWS SES
 
 ### Worker
 
-- [Zeplo](https://www.zeplo.io/)
-- [Trigger](https://trigger.dev/)
-- [Temporal](https://temporal.io/)
+- [Zeplo](https://www.zeplo.io/) - HTTP Request Queue
+- [Trigger](https://trigger.dev/) - Open source background jobs platform
+- [Temporal](https://temporal.io/) - Workflow orchestration
 
 ### Hosting
 
-- [SST](https://sst.dev/)
-- [Coolify](https://coolify.io/)
-- [Dokku](https://dokku.com/)
-- [Fly.io](https://fly.io/)
-- [Railway](https://railway.app/)
-- [Render](https://render.com/)
+- [SST](https://sst.dev/) - Deployment infrastructure
+- [Coolify](https://coolify.io/) - Open source, self-hosting Heroku/Vercel alternative
+- [Dokku](https://dokku.com/) - Open source, Heroku alternative
+- [Fly.io](https://fly.io/) - Deployment platform
+- [Railway](https://railway.app/) - Deployment platform
+- [Render](https://render.com/) - Deployment platform
 
 ### Terminal
 
-- [Sampler](https://sampler.dev/)
-- [asciifolders](https://www.asciifolders.com/)
-- [asciinema](https://asciinema.org/)
+- [Sampler](https://sampler.dev/) - a tool for shell commands execution, visualization and alerting
+- [asciifolders](https://www.asciifolders.com/) - ASCII directory trees from a folder
+- [asciinema](https://asciinema.org/) - Record and share terminal sessions
 
 ### Database
 
-- [Upstash](https://upstash.com/)
-- [Turso](https://turso.tech/)
-- [Neon](https://neon.tech/)
-- [Xata](https://xata.io/)
-- [SQL Playground](https://uibakery.io/sql-playground)
+- [Upstash](https://upstash.com/) - Redis, Vector and QStash hosting
+- [Turso](https://turso.tech/) - SQLite Database service
+- [Neon](https://neon.tech/) - Open Source, serverless postgres
+- [Xata](https://xata.io/) - Serverless postgres
+- [SQL Playground](https://uibakery.io/sql-playground) - Sample database
 
 ### Websocket
 
-- [PartyKit](https://www.partykit.io/)
-- [Pushpin](https://pushpin.org/)
-- [Smee](https://smee.io/)
+- [PartyKit](https://www.partykit.io/) - Simplifies developing multiplayer applications
+- [Pushpin](https://pushpin.org/) - API proxy for realtime apps
+- [Smee](https://smee.io/) - Webhook payload delivery service
 
 ## Logging
 
-- [Axiom](https://www.axiom.co/)
-- [LogSnag](https://logsnag.com/)
-- [Logtail](https://betterstack.com/logtail)
+- [Axiom](https://www.axiom.co/) - Logging
+- [Telemetry](https://betterstack.com/telemetry) - Logging
+- [LogSnag](https://logsnag.com/) - Monitoring and alerts
 
 ## Feature Flags
 
-- [Launch Darkly](https://launchdarkly.com/)
+- [Launch Darkly](https://launchdarkly.com/) - Feature Flags
 
 ### Monitoring & Product Analytics
 
-- [Posthog](https://posthog.com/)
-- [June](https://www.june.so/)
-- [Betterstack](https://betterstack.com/)
-- [Better Uptime](https://betteruptime.com/)
-- [Prometheus](https://prometheus.io/)
-- [ClinicJS](https://clinicjs.org/)
-- [ClinicJS](https://clinicjs.org/)
-- [Planetfall](https://planetfall.io/)
+- [Posthog](https://posthog.com/) - Product Analytics, web analytics, session replay, feature flags, ...
+- [June](https://www.june.so/) - Product analytics
+- [Betterstack](https://betterstack.com/) - Tools for monitoring, uptime, logging etc
+- [Better Uptime](https://betteruptime.com/) - Uptime monitoring
+- [Prometheus](https://prometheus.io/) - Metrics and alerting
+- [ClinicJS](https://clinicjs.org/) - diagnose and pinpoint Node.js performance issues
+- [Planetfall](https://planetfall.io/) - test API endpoint from different regions for free
