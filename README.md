@@ -18,14 +18,13 @@
 
 ### Design
 
-- [Relume](https://www.relume.io/)
-- [Shots.so](https://shots.so/)
-- [Alma](https://www.alma.sh/)
-- [Modyfi](https://www.modyfi.com/)
-- [Artboard Studio](https://artboard.studio/)
-- [Pixlr](https://pixlr.com/)
-- [Raster](https://raster.app/)
-- [Image Upscaler](https://clipdrop.co/image-upscaler)
+- [Relume](https://www.relume.io/) - AI Website builder
+- [Shots.so](https://shots.so/) - Mockup Generator
+- [Modyfi](https://www.modyfi.com/) - Design tool
+- [Artboard Studio](https://artboard.studio/) - Mockup and animation generator
+- [Pixlr](https://pixlr.com/) - Photo Generator
+- [Raster](https://raster.app/) - Photo Management, Editing and Hosting
+- [Image Upscaler](https://clipdrop.co/image-upscaler) - Image Upscaler
 
 - [Duotone](https://duotone.shapefactory.co/)
 
