@@ -2,16 +2,17 @@
   Awesome Services and Tools
 </h1>
 
-- [Sleeve](https://replay.software/sleeve)
-- [Keycastr](https://github.com/keycastr/keycastr)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-- [Rollup.id](https://rollup.id/)
-- [httpie](https://httpie.io/)
-- [ngrock](https://ngrok.com/)
-- [uploadthing](https://uploadthing.com/)
-- [sheety](https://sheety.co/)
-- [Tally](https://tally.so/)
-- [Guidejar](https://www.guidejar.com/)
+- [Sleeve](https://replay.software/sleeve) - See what's playing in Apple Music or Spotify on your desktop.
+- [Keycastr](https://github.com/keycastr/keycastr) - an open-source keystroke visualizer
+- [Rollup.id](https://rollup.id/) - Open source auth provider
+- [httpie](https://httpie.io/) - CLI API testing
+- [ngrock](https://ngrok.com/) - HTTP tunneling
+- [uploadthing](https://uploadthing.com/) - S3 alternative(wrapper)
+- [sheety](https://sheety.co/) - Websites from Sheety
+- [Tally](https://tally.so/) - Form Builder
+- [Guidejar](https://www.guidejar.com/) - Session Replay
 
 ---
 
