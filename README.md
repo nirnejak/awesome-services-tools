@@ -102,7 +102,7 @@
 
 ---
 
-## Logging
+### Logging
 
 - [Axiom](https://www.axiom.co/) - Logging
 - [Telemetry](https://betterstack.com/telemetry) - Logging
