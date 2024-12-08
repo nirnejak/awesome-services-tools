@@ -119,4 +119,4 @@
 - [ClinicJS](https://clinicjs.org/) - diagnose and pinpoint Node.js performance issues
 - [Planetfall](https://planetfall.io/) - test API endpoint from different regions for free
 - [Hightstorm](https://highstorm.app/) - consolidate all your event data into one place
-- [EnvShare] - Share environment variables
+- [EnvShare](https://envshare.dev/) - Share environment variables
