@@ -2,6 +2,9 @@
   Awesome Services and Tools
 </h1>
 
+- [Sleeve](https://replay.software/sleeve)
+- [Keycastr](https://github.com/keycastr/keycastr)
+
 - [Rollup.id](https://rollup.id/)
 - [httpie](https://httpie.io/)
 - [ngrock](https://ngrok.com/)
@@ -11,6 +14,32 @@
 - [Guidejar](https://www.guidejar.com/)
 
 ---
+
+### Design
+
+- [Relume](https://www.relume.io/)
+- [Shots.so](https://shots.so/)
+- [Alma](https://www.alma.sh/)
+- [Modyfi](https://www.modyfi.com/)
+- [Artboard Studio](https://artboard.studio/)
+- [Pixlr](https://pixlr.com/)
+- [Raster](https://raster.app/)
+- [Image Upscaler](https://clipdrop.co/image-upscaler)
+
+- [Duotone](https://duotone.shapefactory.co/)
+
+### Animation
+
+- [Dora](https://www.dora.run/)
+- [Spline](https://spline.design/)
+- [Spline Inspiration](https://splinespiration.com/)
+- [Rive](https://rive.app/)
+- [Jitter](https://jitter.video/)
+- [Flow](https://createwithflow.com/)
+- [Bezi](https://www.bezi.com/)
+- [Fable](https://www.fable.app/)
+- [Sprite](https://spiritapp.io/)
+- [SVGator](https://www.svgator.com/)
 
 ### CMS
 
