@@ -29,16 +29,14 @@
 
 ### Animation
 
-- [Dora](https://www.dora.run/)
-- [Spline](https://spline.design/)
-- [Spline Inspiration](https://splinespiration.com/)
-- [Rive](https://rive.app/)
-- [Jitter](https://jitter.video/)
-- [Flow](https://createwithflow.com/)
-- [Bezi](https://www.bezi.com/)
-- [Fable](https://www.fable.app/)
-- [Sprite](https://spiritapp.io/)
-- [SVGator](https://www.svgator.com/)
+- [Dora](https://www.dora.run/) - AI 3D site generator
+- [Spline](https://spline.design/) - 3D Design tool
+- [Spline Inspiration](https://splinespiration.com/) - Inspiration for spline
+- [Rive](https://rive.app/) - Motion and Interaction design tool
+- [Jitter](https://jitter.video/) - Motion Design tool
+- [Flow](https://createwithflow.com/) - UX Animation for Designers
+- [Bezi](https://www.bezi.com/) - Game development tool
+- [SVGator](https://www.svgator.com/) - SVG animation tool
 
 ### CMS
 
