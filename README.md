@@ -47,6 +47,7 @@
 - [Payload CMS](https://payloadcms.com/) - Next.js CMS
 - [Outstatic](https://outstatic.com/) - Static CMS for Next.js
 - [TinaCMS](https://tina.io/) - Headless Git CMS
+- [BaseHub](https://basehub.com/) - Headless CMS
 
 ---
 
