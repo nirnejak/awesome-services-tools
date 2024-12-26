@@ -14,6 +14,10 @@
 - [Tally](https://tally.so/) - Form Builder
 - [Guidejar](https://www.guidejar.com/) - Session Replay
 
+- [Mythic](https://getmythic.app/) - Windows games on Mac
+- [PCSX2](https://pcsx2.net/) - PS2 Emulator
+- [Romsfun](https://romsfun.com/) - Play Video Game Roms on your Computer or Phone
+
 ---
 
 ### Design
